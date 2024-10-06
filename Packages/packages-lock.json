@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.iam1337.extosc": {
-      "version": "file:C:/Users/rishi/Downloads/extOSC-master/extOSC-master/Assets/extOSC",
+      "version": "file:D:/Downloads/extOSC-master/extOSC-master/extOSC-master/Assets/extOSC",
       "depth": 0,
       "source": "local",
       "dependencies": {
